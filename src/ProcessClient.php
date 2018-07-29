@@ -5,7 +5,7 @@ namespace PHPPM;
 use React\EventLoop\Factory;
 use React\EventLoop\LoopInterface;
 use React\Socket\ConnectionInterface;
-use React\Socket\UnixConnector;
+use React\Socket\UnixConnector
 
 class ProcessClient
 {
